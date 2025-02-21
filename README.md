@@ -4,9 +4,7 @@
   
   I'm also looking into JavaScript to further develop my skills in full stack. I have learned HTML/CSS, as well as being rather proficient in C++.
   
-  I’m looking to collaborate on making a roguelike game that will be done by me and two other collaborators in the near future using either Kotlin or C++. 
-  
-  ⚡ Fun fact: NetHack is my favorite game. Roguelikes in general are something I like to develop and try out over time. My current project will be about a roguelike.
+  My current project will be about a roguelike. I’m looking to collaborate on making a roguelike game that will be done by me and two other collaborators in the near future using either Kotlin or C++. Also, NetHack is my favorite game ⚡, which is also a roguelike.
 
 <!---
 jera1470/jera1470 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
